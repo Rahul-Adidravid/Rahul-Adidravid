@@ -1,7 +1,7 @@
 # Hi, I'm Rahul Adidravid 👋
 ### Computer Vision & AI Engineer
 
-Computer Vision & AI Engineer with **3 years of experience** building and deploying real-time AI video analytics in production. I specialize in **object detection & tracking** and **edge AI deployment** (NVIDIA Jetson, Triton Inference Server), and I'm currently expanding into **Generative AI, LLMs, and RAG**.
+Computer Vision & AI Engineer with **4 years of experience** building and deploying real-time AI video analytics in production. I specialize in **object detection & tracking** and **edge AI deployment** (NVIDIA Jetson, Triton Inference Server), and I'm currently expanding into **Generative AI, LLMs, and RAG**.
 
 - 🔭 Building real-time computer vision systems for traffic, surveillance & smart-city use cases
 - 🌱 Currently learning: LLMs, RAG, LangChain, Multimodal (Vision + Language) AI
